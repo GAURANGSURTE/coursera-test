@@ -1,0 +1,33 @@
+#body{
+    box-shadow:0 4px 10px 0 rgba(0, 0, 0, 0.174),0 4px 10px 0 rgba(0, 0, 0, 0.174);
+}
+#box1{
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.174),0 4px 10px 0 rgba(0, 0, 0, 0.174);
+}
+#ename{
+    border-radius: 10px;
+    background: #ffffff2d;
+    border-color: aqua;
+    width: 300px;
+}
+#word{
+    border: 10px;
+    /* color: #b300ff; */
+    /* -webkit-text-stroke: 1px rgb(0, 0, 0); */
+}
+#box{
+    margin:auto;
+    width:500px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.174),0 4px 10px 0 rgba(0, 0, 0, 0.174);
+}
+#hr{
+    max-width: fit-content;
+}
+#enter{
+    width: 100px;
+    border-radius: 10px;
+    background: whitesmoke;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.174),0 4px 10px 0 rgba(0, 0, 0, 0.174);
+}
